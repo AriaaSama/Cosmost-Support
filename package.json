@@ -1,0 +1,24 @@
+{
+  "name": "supportbot",
+  "version": "1.0.0",
+  "description": "Discord SupportBot created by Emerald Services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "discord",
+    "support",
+    "bot",
+    "ticket"
+  ],
+  "author": "Emerald Services",
+  "license": "MIT"
+}
